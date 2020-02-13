@@ -16,3 +16,8 @@
 **Thoughts:** I think tomorrow I might try to weed through some more learning about the syntax for Swift. I get hung up on that sometimes, and I know I'm learning a completely new thing right now but that's frustrating sometimes.
 
 **Link to Work:** [iDine repo](https://github.com/jenessawhite/iDine)
+
+### Day 2: 2/12/2020
+**Today's Progress:** Today I stepped back and went through the [Swift Docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html). I know the "rules" don't allow for that, but I am learning dammit.
+
+**Thoughts:** I feel a lot better now that I did that. So onward to tomorrow!
