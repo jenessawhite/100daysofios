@@ -21,3 +21,8 @@
 **Today's Progress:** Today I stepped back and went through the [Swift Docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html). I know the "rules" don't allow for that, but I am learning dammit.
 
 **Thoughts:** I feel a lot better now that I did that. So onward to tomorrow!
+
+### Day 3: 2/15/2020
+**Today's Progress:** Back at t today with learning about Navigation Views and passing things through views. It's interesting to see the similarities between Swift and something like React when it comes to this.
+
+**Thoughts:** No thoughts in particular today!
