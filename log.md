@@ -26,3 +26,8 @@
 **Today's Progress:** Back at t today with learning about Navigation Views and passing things through views. It's interesting to see the similarities between Swift and something like React when it comes to this.
 
 **Thoughts:** No thoughts in particular today!
+
+### Day 4: 2/16/2020
+**Today's Progress:** Today I worked more on the iDine app. Learning about the environment variables and how Swift allows access to them and how to pass information to/from them.
+
+**Thoughts:** When I started this process I didn't know what to expect, but I do think that this is super valuable and I feel like I am learning something similar to what I've already done but also something new.
