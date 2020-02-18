@@ -31,3 +31,8 @@
 **Today's Progress:** Today I worked more on the iDine app. Learning about the environment variables and how Swift allows access to them and how to pass information to/from them.
 
 **Thoughts:** When I started this process I didn't know what to expect, but I do think that this is super valuable and I feel like I am learning something similar to what I've already done but also something new.
+
+### Day 5: 2/17/2020
+**Today's Progress:** More iDine work but this time on the checkout flow. Learned a lot about state, two way binding, and how Swift handles forms.
+
+**Thoughts:** It's kind of crazy how fast you can put together a moderately challenging app in Swift. I don't feel like there's a large barrier to the language which has been nice. 
