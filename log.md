@@ -36,3 +36,8 @@
 **Today's Progress:** More iDine work but this time on the checkout flow. Learned a lot about state, two way binding, and how Swift handles forms.
 
 **Thoughts:** It's kind of crazy how fast you can put together a moderately challenging app in Swift. I don't feel like there's a large barrier to the language which has been nice. 
+
+### Day 6: 2/19/2020
+**Today's Progress:** Today I got a look at modifiers for forEach loops. I made a few mental mistakes, mostly probably due to fatigue. 
+
+**Thoughts:** Doing these at night is hard. I might try to do more of my days in the morning. It'll probably be easier to focus when other people aren't awake.
